@@ -1,9 +1,5 @@
-
-# Publication
-
-Publishing in StackEdit makes it simple for you to publish online your files. Once you're happy with a file, you can publish it to different hosting platforms like **Blogger**, **Dropbox**, **Gist**, **GitHub**, **Google Drive**, **WordPress** and **Zendesk**. With [Handlebars templates](http://handlebarsjs.com/), you have full control over what you export.
-
 *__COMPTE-RENDU LU3IN004 n°1:__* *AGUINI Lydia (), GIANG Cécile (3530406)*
+
 
 # ALMO TP n°1 - Simulateur MARS
 
